@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/home"
+        android:title="Home"/>
+
+    <item android:id="@+id/livetrainstatus"
+        android:title="Live Train Status"/>
+
+    <item android:id="@+id/pnrstatus"
+        android:title="PNR Status" />
+
+    <item android:id="@+id/trainroute"
+        android:title="Train Route" />
+
+    <item android:id="@+id/seatavailability"
+        android:title="Seat Availability" />
+
+    <item android:id="@+id/trainbetweenstations"
+        android:title="Train Between Stations" />
+
+    <item android:id="@+id/trainnameornumber"
+        android:title="Train Name/Number" />
+
+    <item android:id="@+id/trainfareenquiry"
+        android:title="Train Fare Enquiry" />
+
+    <item android:id="@+id/trainarivals"
+        android:title="Train Arrivals" />
+
+    <item android:id="@+id/cancelledtrains"
+        android:title="Cancelled Trains" />
+
+    <item android:id="@+id/rescheduledtrains"
+        android:title="Rescheduled Train" />
+
+    <item android:id="@+id/stationnametocode"
+        android:title="Station Name to Code" />
+
+    <item android:id="@+id/stationcodetoname"
+        android:title="Station Code to Name" />
+
+    <item android:id="@+id/stationautocompletesuggest"
+        android:title="Station Auto Complete Suggest" />
+
+    <item android:id="@+id/trainautocompletesuggest"
+        android:title="Train Auto Complete Suggest" />
+</menu>
